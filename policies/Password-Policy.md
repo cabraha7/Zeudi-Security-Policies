@@ -4,8 +4,8 @@
 - **Document ID:** PWP-001
 - **Classification:** Public
 - **Version:** 1.0
-- **Effective Date:** [Current Date]
-- **Review Date:** [One Year from Now]
+- **Effective Date:** 11/03/2024
+- **Review Date:** 11/03/2025
 
 ## Purpose
 This Password Policy defines the requirements for creating and managing passwords across Zeudi's streaming platform to ensure secure access to user accounts, artist portals, and administrative systems.
