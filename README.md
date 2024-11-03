@@ -1,8 +1,17 @@
-# Enterprise Security Policy Framework
+# Zeudi - Information Security Policy Framework
 
-## Overview
-This repository contains a comprehensive set of information security policies designed to protect organizational assets and ensure compliance with industry standards and regulations. These policies align with frameworks such as NIST, ISO 27001, and industry best practices.
+## Company Context
+Zeudi is a global music streaming platform that delivers high-quality audio content to millions of users worldwide. As a digital streaming provider, we prioritize:
+- Protection of user data and privacy
+- Secure content delivery and DRM
+- Artist and label data protection
+- Payment information security
+- High availability infrastructure
+- Multi-device access security
+- API and integration security
 
+Our security policies reflect our commitment to protecting our users, artists, and platform integrity while ensuring compliance with global regulations including GDPR, PCI DSS, and DMCA.
+ 
 ## Policy Directory
 
 ### Core Security Policies
