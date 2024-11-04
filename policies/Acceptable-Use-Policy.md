@@ -4,8 +4,8 @@
 - **Document ID:** AUP-001
 - **Classification:** Public
 - **Version:** 1.0
-- **Effective Date:** [Current Date]
-- **Review Date:** [One Year from Now]
+- **Effective Date:** 11/03/2025
+- **Review Date:** 11/03/2025
 
 ## Purpose
 This Acceptable Use Policy defines the appropriate use of Zeudi's information technology resources, streaming platform infrastructure, and content delivery systems to protect the organization, our users, artists, and content partners from security risks.
