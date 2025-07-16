@@ -59,8 +59,8 @@ Our security policies reflect our commitment to protecting our users, artists, a
 ## Contact
 For questions, suggestions, or contributions, please:
 - Create an issue in this repository
-- Email: [Your Professional Email]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: Chrisabrahamisa@proton.me
+- LinkedIn: https://www.linkedin.com/in/christian-abraham-163243286/
 
 ## Last Updated
 11/03/2024
